@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning JavaScript and Data Structures & Algorithms.
 - 🤝 I’m looking to collaborate on Front-End Projects
-- 📫 How to reach me: anukumari21529@gmail.com
+- 📫 How to reach me: kumarianu2905@gmail.com
 
 ### Skills
 
