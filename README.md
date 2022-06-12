@@ -2,7 +2,7 @@
 
 ### a Front-End Web Developer
 
-- 🌱 I’m currently learning JavaScript and Data Structures & Algorithms.
+- 🌱 I’m currently learning React and Data Structures & Algorithms.
 - 🤝 I’m looking to collaborate on Front-End Projects
 - 📫 How to reach me: kumarianu2905@gmail.com
 
