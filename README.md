@@ -7,23 +7,19 @@
 
 ### Skills
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/452/html-5--v1.png" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/452/css3.png" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/452/javascript--v1.png" alt="JS" width="40" height="40" />
-  </a>
-  <a href="https://www.javatpoint.com/java-tutorial" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40" />
-  </a>
+  <img src="https://img.icons8.com/color/452/html-5--v1.png" alt="HTML5" title="HTML5" width="40" height="40" />
+  <img src="https://img.icons8.com/color/452/css3.png" alt="CSS3"title="CSS3" width="40" height="40" />
+  <img src="https://img.icons8.com/color/452/javascript--v1.png" alt="JS" title="JavaScript" width="40" height="40" />
+  <img src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png" alt="Java" title="Java" width="40" height="40" />
 </p>
 
 
 ### Socials
 <p align="left"> 
-  <a href="https://twitter.com/devv_anu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="https://github.com/devvanu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+  <a href="https://twitter.com/devv_anu" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/344/twitter--v1.png" alt="twitter" title="Twitter" width="40" height="40" />
+  </a>
+  <a href="https://github.com/devvanu" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/344/github.png" alt="github" title="GitHub" width="40" height="40" />
+  </a> 
 </p>
