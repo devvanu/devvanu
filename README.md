@@ -32,6 +32,9 @@
   <a href="https://twitter.com/devv_anu" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/344/twitter--v1.png" alt="twitter" title="Twitter" width="40" height="40" />
   </a>
+  <a href="https://www.linkedin.com/in/devvanu" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/344/linkedin.png" alt="linkedin" title="linkedin" width="40" height="40" />
+  </a> 
   <a href="https://github.com/devvanu" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios-glyphs/344/github.png" alt="github" title="GitHub" width="40" height="40" />
   </a> 
