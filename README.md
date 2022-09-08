@@ -10,6 +10,7 @@
 
 
 ## Projects :
+- [Flint.money Clone](https://github.com/devvanu/flint-dot-money-clone)- a react & chakra ui project
 - [Estatery](https://github.com/devvanu/real-estate-website) (real estate website)- a react & chakra ui project to search houses as per your preferences.
 - [Notes App](https://github.com/devvanu/react-notes-app)- a react project to quickly record your thoughts. 
 - [Expense Tracker](https://github.com/devvanu/react-expense-tracker)- a react project to track your yearly expenses.
