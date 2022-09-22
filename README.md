@@ -43,10 +43,15 @@
   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/344/chakra-ui.png" alt="Chakra UI" title="Chakra UI" width="40" height="40" />
   </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/93486013/191805257-b646c12f-70cd-49fa-93e2-66f474b6fccb.png" alt="Material UI" title="Material UI" width="40" height="40" />
+  </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/93486013/182293372-2fd816b6-a9aa-4c1f-bd83-999f0a58d5e7.png" alt="Netlify" title="Netlify" width="40" height="40" />
   </a>
 </p>
+
+![logo]()
 
 
 ## Socials :
