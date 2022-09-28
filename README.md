@@ -51,9 +51,6 @@
   </a>
 </p>
 
-![logo]()
-
-
 ## Socials :
 <p align="left"> 
   <a href="https://twitter.com/devv_anu" target="_blank" rel="noreferrer">
